@@ -1,0 +1,11 @@
+$color: black;
+$focus-color: red;
+
+button{
+color: $color;
+
+&:focus{
+color: $focus-color;
+}
+
+}

@@ -1,0 +1,7 @@
+$selector: 'article';
+$color: #bada55;
+
+#{selector}{
+    $color: #ff0000;
+    color: $color;
+}
